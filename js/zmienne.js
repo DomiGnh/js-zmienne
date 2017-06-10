@@ -7,10 +7,15 @@ var wiek = 37;
 
 var kolor = "czerwony";
 
-imie = "Sergio";
 
 console.log(imie);
 console.log(wiek);
 console.log(kolor);
 
+imie = "Sergio";
+imie= imieDamskie;
 
+
+console.log(imie);
+console.log(wiek);
+console.log(kolor);
